@@ -1,0 +1,1 @@
+# Best color presets for Mac Os iterm2
