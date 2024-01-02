@@ -9,11 +9,11 @@ Go to the iterm2 settings:
 ___
 
 
-Open "Profiles" tab and here select "Colors" for the left tab
+Open "Profiles" tab and here select "Colors" from the right tab
 
 ![colors](https://i.ibb.co/Q8xDHvY/Screenshot-2024-01-02-at-02-02-03.png)
 
-Click to "Color Presets" and scroll down to bottom. After click "Import" in opened window search and open "themes" directory in this project. Select all presets and click "Open" in the right bottom side of the window.
+Click to "Color Presets" and scroll down to bottom. After, click "Import" in opened window, search and open "themes" directory in this project. Select all presets and click "Open" in the lower right corner of the window.
 
 ![presets](https://i.ibb.co/gDTx5Mt/Screenshot-2024-01-02-at-02-12-48.png)
 
