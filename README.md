@@ -1,4 +1,4 @@
-<h1 style="text-align: center;"> Best color presets for Mac Os iterm2</h1>
+## Best color presets for Mac Os iterm2
 
 ### How to add presets to the iterm2
 
